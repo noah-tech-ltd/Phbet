@@ -1,0 +1,39 @@
+.master-head {
+  height: 100vh;
+  padding-top: 7.5rem;
+  padding-bottom: 5rem;
+  color: #fff;
+  background: #071b20;
+
+  .container {
+    background: #071b20;
+  }
+}
+
+.navbar {
+  background: #266878;
+
+  a {
+      display: block;
+      width: 145px;
+      height: 60px;
+      background: url('../assets/images/logo.png');
+      background-size: contain;
+  }
+}
+
+.highlight {
+  color: #68e775;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.bg_2 {
+  float: right;
+}
+
+.btn-outline-light:hover {
+  background-color: #68e775;
+}
