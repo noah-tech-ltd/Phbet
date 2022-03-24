@@ -8,5 +8,5 @@
 ## Deploy
 
 ```
-ng deploy --base-href=/B8bet/
+ng deploy --base-href=/Phbet/
 ```
